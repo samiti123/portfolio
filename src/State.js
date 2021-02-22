@@ -33,7 +33,7 @@ export const InitialState = [
     description:
       'Redux Social-Media is build using React.js technology.It takes about 2 months.For this social-media it has both ends,which is front-end and back-end.Our backend is build by my team and i concerned the front-end part of this project.',
     image: '',
-    url: 'https://yourname.github.io/...',
-    code: 'https://github.com/yourname/...',
+    url: 'http://localhost:3001/profile/5fda220416bcd97be50876a3',
+    code: 'https://github.com:samiti123/Redux_SocialMedia.git',
   },
 ];
